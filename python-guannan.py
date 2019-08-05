@@ -6,7 +6,7 @@
 
 import pandas as pd
 
-data = pd.read_excel("intern_ml_inputs.xlsx",header=[1])
+data = pd.read_excel("intern_ml_inputs (1).xlsx",header=[1])
 
 data.head()
 
